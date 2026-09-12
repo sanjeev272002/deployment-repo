@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: microservice-container
-        image: 230254492998.dkr.ecr.ap-southeast-2.amazonaws.com/myecrrepo:latest
+        image: 230254492998.dkr.ecr.ap-southeast-2.amazonaws.com/myecrrepo:5-d838e55
         ports:
         - containerPort: 80
